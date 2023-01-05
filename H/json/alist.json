@@ -1,4 +1,5 @@
-{
+{  
+    "lan": "http://192.168.100.50:5678", 
     "yu": "https://www.ycg31.ml:8003", 
     "木偶": "https://www.kugutsu.ml", 
     "9T(Adult)": "https://drive.9t.ee",
